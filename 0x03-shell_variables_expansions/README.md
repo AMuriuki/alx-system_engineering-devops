@@ -1,11 +1,4 @@
 # 0x03. Shell, init files, variables and expansions
-## Resources
-* [Expansions](https://linuxcommand.org/lc3_lts0080.php)
-* [Shell Arithmetic](https://www.gnu.org/software/bash/manual/html_node/Shell-Arithmetic.html)
-* [Variables](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_02.html)
-* [Shell initialization files](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html)
-* [The alias Command](http://www.linfo.org/alias.html)
-* [Technical Writing](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/6/9112669886fd446a2aa3113c31319d1f468dc160.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221015%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221015T082247Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ea32e7c8f5ad5a7980e7107014bb98a9876aa7a1d80758f1c9ce2a1b418a9b96)
 
 ## Learning Objectives
 ### General
